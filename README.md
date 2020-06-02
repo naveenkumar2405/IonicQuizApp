@@ -1,4 +1,4 @@
 
 ### Installation ###
-1. Run `npm install` on the cloned repo.
+1. Run `npm install`.
 2. Run `ionic serve`
